@@ -14,12 +14,14 @@ How You Can Help
 Below are some ways you can help out.
 
 EditorConfig could really use:
+
 1. Your feedback, opinions, and advice.  We really want to hear what you think!
 2. More plugins!  We want all the plugins.
 3. Help evangelize.  More EditorConfig users means less style wars.
 4. Help maintaining and improving core libraries
 
 More stuff we could use:
+
 1. Better documentation
 2. Better tests
 3. Help improving the EditorConfig website
