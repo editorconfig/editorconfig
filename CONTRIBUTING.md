@@ -9,6 +9,9 @@ also consider filing a support request with your editor for EditorConfig
 support. Please also provide links to any relevant discussions elsewhere on
 the Internet relating to EditorConfig in your editor.
 
+Before submitting an issue, please run [this script][2] to check whether there
+is a typo in your `.editorconfig` files when applicable.
+
 How You Can Help
 ----------------
 Below are some ways you can help out.
@@ -29,3 +32,4 @@ More stuff we could use:
 - Native support for EditorConfig in major text editors
 
 [1]: https://github.com/editorconfig/editorconfig/wiki/Projects-Using-EditorConfig
+[2]: https://github.com/editorconfig/utilities/raw/master/check-typos/checktypos.py
