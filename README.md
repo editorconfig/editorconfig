@@ -2,5 +2,5 @@
 
 
 [EditorConfig]: http://editorconfig.org
-[issue tracking]: https://github.com/editorconfig/editorconfig/issues
-[wiki pages]: https://github.com/editorconfig/editorconfig/wiki
+[issue tracking]: https://github.com/xaxadmin/editorconfig/issues
+[wiki pages]: https://github.com/xaxadmin/editorconfig/wiki
