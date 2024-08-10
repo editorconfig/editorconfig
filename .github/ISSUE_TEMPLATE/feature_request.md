@@ -7,11 +7,11 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is (Ex: Can't select specific file).
+## Which problem does this feature fix?
+Description of what the problem is (Ex: Can't select specific file).
 
-**Describe the solution you'd like**
-A clear and concise description of what you want EditorConfig to do.
+## Describe the solution you'd like
+A clear description of what you want EditorConfig to do.
 
-**Additional context**
+## Additional context
 Add any other information about the feature request here.
