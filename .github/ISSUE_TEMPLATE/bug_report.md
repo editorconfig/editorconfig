@@ -19,9 +19,8 @@ Steps to reproduce the behavior:
 2. Open '...'
 4. See error
 
-## App/Platform information:
- - App/Platform: [ VSCode, Vim... ]
- - Version: [e.g. 9.1]
+## Expected behavior
+
 
 ## Additional context
 Add any other context (log files, links, examples...) about the bug here.
