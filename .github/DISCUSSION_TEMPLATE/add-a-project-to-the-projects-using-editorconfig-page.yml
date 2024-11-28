@@ -1,0 +1,7 @@
+title: 'Add <PROJECT NAME> to "Projects Using EditorConfig"'
+body:  
+  - type: markdown
+    attributes:
+      value: |
+        Please add <PROJECT NAME> to "Projects Using EditorConfig"
+        `[<PROJECT NAME>](<PROJECT HOMEPAGE>) ([source](<LINK TO .editorconfig OF THE PROJECT)) -- <PROJECT DESCRIPTION>`
