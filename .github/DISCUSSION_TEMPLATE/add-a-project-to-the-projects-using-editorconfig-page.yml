@@ -1,6 +1,7 @@
 title: 'Add <PROJECT NAME> to "Projects Using EditorConfig"'
 body:  
   - type: textarea
+    label: Request
     attributes:
       value: |
         Please add <PROJECT NAME> to "Projects Using EditorConfig"
