@@ -1,6 +1,6 @@
 title: 'Add <PROJECT NAME> to "Projects Using EditorConfig"'
 body:  
-  - type: markdown
+  - type: textarea
     attributes:
       value: |
         Please add <PROJECT NAME> to "Projects Using EditorConfig"
