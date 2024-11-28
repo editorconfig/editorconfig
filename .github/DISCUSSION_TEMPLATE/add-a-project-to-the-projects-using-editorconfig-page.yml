@@ -1,8 +1,8 @@
 title: 'Add <PROJECT NAME> to "Projects Using EditorConfig"'
 body:  
   - type: textarea
-    label: Request
     attributes:
+      label: Request
       value: |
         Please add <PROJECT NAME> to "Projects Using EditorConfig"
         `[<PROJECT NAME>](<PROJECT HOMEPAGE>) ([source](<LINK TO .editorconfig OF THE PROJECT)) -- <PROJECT DESCRIPTION>`
